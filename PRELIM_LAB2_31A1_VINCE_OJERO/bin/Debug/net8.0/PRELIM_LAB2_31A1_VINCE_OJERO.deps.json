@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PRELIM_LAB2_31A1_VINCE_OJERO/1.0.0": {
+        "runtime": {
+          "PRELIM_LAB2_31A1_VINCE_OJERO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRELIM_LAB2_31A1_VINCE_OJERO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+﻿@model PRELIM_LAB2.Models.BookCustomerViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Book and Customer Info</title>
+</head>
+<body>
+    <h2> Book Information</h2>
+    <ul>
+        <li><strong>Title:</strong> @Model.Book.Title</li>
+        <li><strong>Author:</strong> @Model.Book.Author</li>
+    </ul>
+
+    <h2> Customer Information</h2>
+    <ul>
+        <li><strong>Full Name:</strong> @Model.Customer.FullName</li>
+        <li><strong>Email:</strong> @Model.Customer.Email</li>
+    </ul>
+</body>
+</html>

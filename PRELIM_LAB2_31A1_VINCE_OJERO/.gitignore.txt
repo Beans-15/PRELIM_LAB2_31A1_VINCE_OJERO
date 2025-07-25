@@ -1,0 +1,17 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build results
+bin/
+obj/
+*.log
+
+# Ignore sensitive data
+*.db
+*.sqlite
+*.env
+
